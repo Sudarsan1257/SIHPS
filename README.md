@@ -61,7 +61,7 @@ boards categorized by topics such as career advice, alumni achievements, and uni
  understand how alumni interact with the platform and identify areas for improvement.
  Feedback Mechanism: Incorporate a feedback system where users can share their
  experiences and suggest enhancements to the platform
-![WhatsApp Image 2024-11-28 at 18 37 34_9fe7ae55](https://github.com/user-attachments/assets/095c131c-e588-470e-adb9-fee690403c18)
+![WhatsApp Image 2024-11-28 at 18 37 34_823250b9](https://github.com/user-attachments/assets/2b835276-3eb4-4cc5-8bef-486ed9c12826)
 
 ## Use Cases
 Alumni Registration and Onboarding Use Case: Alumni sign up and create profiles on
@@ -88,8 +88,8 @@ Alumni Registration and Onboarding Use Case: Alumni sign up and create profiles 
  (students or recent graduates) with mentors (experienced alumni) based on their
  profiles and areas of interest. They can then schedule meetings, track progress, and
  provide feedback
-![WhatsApp Image 2024-11-28 at 18 37 34_823250b9](https://github.com/user-attachments/assets/2b835276-3eb4-4cc5-8bef-486ed9c12826)
 
+![WhatsApp Image 2024-11-28 at 18 37 34_9fe7ae55](https://github.com/user-attachments/assets/095c131c-e588-470e-adb9-fee690403c18)
 ## Technology Stack
 Alumni Registration and Onboarding Use Case: Alumni sign up and create profiles on
  the platform. Actors: Alumni, System
